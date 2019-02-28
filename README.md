@@ -1,7 +1,7 @@
 # data-team-jared
 Jared Hesse Interview
 
-Technical Exercise
+# Technical Exercise
 Fork this repo
 Add functionality to the application as outlined below
 Submit a PR back to the repo with your work
